@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/arbaan/static/css/main.9ef5a2f0.css",
+    "main.js": "/arbaan/static/js/main.2dbf7d78.js",
+    "static/js/787.99636137.chunk.js": "/arbaan/static/js/787.99636137.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/arbaan/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/arbaan/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/arbaan/index.html",
+    "main.9ef5a2f0.css.map": "/arbaan/static/css/main.9ef5a2f0.css.map",
+    "main.2dbf7d78.js.map": "/arbaan/static/js/main.2dbf7d78.js.map",
+    "787.99636137.chunk.js.map": "/arbaan/static/js/787.99636137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef5a2f0.css",
+    "static/js/main.2dbf7d78.js"
+  ]
+}
