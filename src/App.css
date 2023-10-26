@@ -1,13 +1,36 @@
-.Arbaan-InnerLayout{
-  background-color:white;
+.Arbaan-InnerLayout {
+  background-color: white;
 }
-.Arbaan-OuterLayout{
+
+.Arbaan-OuterLayout {
   background-color: #c70039;
 }
 
-.Arbaan-table table{
+.Arbaan-table table {
   background-color: #fff;
 }
+
+#canvas-container {
+  height: 30vh;
+  width: 20vw;
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  #canvas-container1 {
+    height: 50vh;
+    width: 50vw;
+    position: relative;
+    margin: auto;
+  }
+  #canvas-container2 {
+    height: 50vh;
+    width: 23vw;
+    position: relative;
+    margin: auto;
+  }
+}
+
 
 .App {
   /* text-align: center; */
@@ -49,6 +72,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

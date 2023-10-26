@@ -103,9 +103,9 @@ const PostList: React.FC<IProps> = (props) => {
                   <span className="pointer" onClick={() => editPost(item.id)}>
                     <EditIcon />
                   </span>
-                  {/* <span className="pointer ms-3" onClick={() => deletePost(item.id)}>
+                  <span className="pointer ms-3" onClick={() => deletePost(item.id)}>
                     {((editId === item.id) && loader) ? <Spinner color="danger" size="sm" /> : <DeleteIcon />}
-                  </span> */}
+                  </span>
                 </td>
               </tr>
             ))}
